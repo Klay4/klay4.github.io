@@ -12,11 +12,11 @@ My homelab is quite complex—many of the complications are not strictly necessa
 
 <div style="display: flex; justify-content: space-between; gap: 1rem; margin: 1.5rem 0;">
   <figure style="flex: 1; text-align: center;">
-    <img src="/assets/lib/homelab/external_view.jpg" alt="External view of my 6U BTicino rack" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);" />
+    <img src="/assets/img/homelab/external_view.jpg" alt="External view of my 6U BTicino rack" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);" />
     <figcaption style="margin-top: 0.5rem; font-style: italic; font-size: 0.9rem;">External view of the rack, server and UPS</figcaption>
   </figure>
   <figure style="flex: 1; text-align: center;">
-    <img src="/assets/lib/homelab/inside_view.jpg" alt="Inside view with ONT, switches, and routers" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);" />
+    <img src="/assets/img/homelab/inside_view.jpg" alt="Inside view with ONT, switches, and routers" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);" />
     <figcaption style="margin-top: 0.5rem; font-style: italic; font-size: 0.9rem;">Inside the network rack</figcaption>
   </figure>
 </div>
